@@ -8,12 +8,13 @@ git init
 
 ### Adicionar arquivos no commit
 
-'''
-git add .    
-'''
-
 ```
-git add <nome> | .    
+git add .    
+```
+
+### Verificar status dos arquivos
+```
+git status    
 ```
 
 
