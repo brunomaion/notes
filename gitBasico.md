@@ -50,6 +50,10 @@ git branch -M main
 
 #### Verificar branch atual
 
+```
+git branch
+```
+
 ### Upload / Push
 
 ```
