@@ -8,14 +8,14 @@ git init
 
 ### Adicionar arquivos no commit
 
-<<<<<<< HEAD
+'''
 git add .    
+'''
 
-=======
 ```
 git add <nome> | .    
 ```
->>>>>>> b96f9f6 (Inicio2)
+
 
 ### Commitar
 
