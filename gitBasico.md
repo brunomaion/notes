@@ -7,7 +7,7 @@ git init
 
 ### Adicionar arquivos no commit
 
-git add <nome> | .    
+git add .    
 
 
 ### Commitar
